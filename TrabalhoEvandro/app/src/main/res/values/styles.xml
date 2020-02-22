@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <string-array name="semestres">
+        <item>1° Semestre</item>
+        <item>2° Semestre</item>
+        <item>3° Semestre</item>
+        <item>4° Semestre</item>
+        <item>5° Semestre</item>
+    </string-array>
+
+</resources>

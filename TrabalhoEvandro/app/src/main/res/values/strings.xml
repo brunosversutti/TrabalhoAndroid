@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TrabalhoEvandro</string>
+    <string-array name="sistemasmobile">
+         <item>Android</item>
+        <item>IOS</item>
+        <item>Windows Phone</item>
+    </string-array>
+</resources>
